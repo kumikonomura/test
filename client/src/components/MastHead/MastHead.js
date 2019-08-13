@@ -7,23 +7,25 @@ import "./MastHead.css";
 const MastHead = _ => {
   return (
     <>
-      <header class="masthead bg-primary text-white text-center">
-        <div class="container d-flex align-items-center flex-column">
+      <header className="masthead bg-primary text-white text-center">
+        <div className="container d-flex align-items-center flex-column">
           <div className="profileImage">
             <img className="avatar" src={Dog} />
           </div>
 
-          <h1 class="masthead-heading text-uppercase mb-0">KUMIKO NOMURA</h1>
+          <h1 className="masthead-heading text-uppercase mb-0">
+            KUMIKO NOMURA
+          </h1>
 
-          <div class="divider-custom divider-light">
-            <div class="divider-custom-line" />
-            <div class="divider-custom-icon">
-              <i class="fas fa-star" />
+          <div className="divider-custom divider-light">
+            <div className="divider-custom-line" />
+            <div className="divider-custom-icon">
+              <i className="fas fa-star" />
             </div>
-            <div class="divider-custom-line" />
+            <div className="divider-custom-line" />
           </div>
 
-          <p class="masthead-subheading font-weight-light mb-0">
+          <p className="masthead-subheading font-weight-light mb-0">
             Full-Stack Developer
           </p>
         </div>
