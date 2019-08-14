@@ -21,9 +21,20 @@ const MastHead = _ => {
           <p className="masthead-subheading font-weight-light mb-0">
             Full-Stack Developer
           </p>
-          <p>
-            <img src={GitHub} />
-          </p>
+          <div class="social-icons">
+            <a href="#">
+              <i class="fab fa-linkedin-in" />
+            </a>
+            <a href="#">
+              <i class="fab fa-github" />
+            </a>
+            <a href="#">
+              <i class="fab fa-twitter" />
+            </a>
+            <a href="#">
+              <i class="fab fa-facebook-f" />
+            </a>
+          </div>
         </div>
       </header>
     </>
