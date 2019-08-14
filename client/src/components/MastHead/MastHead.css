@@ -26,5 +26,6 @@
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  /* background-color: #BD5D38; */
+  background-color: white;
 }

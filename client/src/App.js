@@ -1,12 +1,18 @@
 import React, { Component } from "react";
-import Home from './pages/Home'
+import Home from "./pages/Home";
+import About from './pages/About'
+import Portfolio from './pages/Portfolio'
 
 class App extends Component {
   render() {
     return (
-    <Home />
-    )
+      <>
+        <Home />
+        <Portfolio />
+        <About />
+      </>
+    );
   }
 }
 
-export default App
+export default App;
