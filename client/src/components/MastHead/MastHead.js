@@ -23,10 +23,10 @@ const MastHead = _ => {
           </p>
           <br />
           <div class="social-icons">
-            <a href="#">
+            <a href="https://www.linkedin.com/in/kumikonomura">
               <i class="fab fa-linkedin-in" />
             </a>
-            <a href="#">
+            <a href="https://github.com/kumikonomura">
               <i class="fab fa-github" />
             </a>
             <a href="#">
