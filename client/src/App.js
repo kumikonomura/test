@@ -3,6 +3,7 @@ import Home from "./pages/Home";
 import About from './pages/About'
 import Portfolio from './pages/Portfolio'
 import Footer from './components/Footer'
+import Contact from './pages/Contact'
 
 class App extends Component {
   render() {
@@ -11,6 +12,7 @@ class App extends Component {
         <Home />
         <Portfolio />
         <About />
+        <Contact />
         <Footer />
       </>
     );
