@@ -12,7 +12,7 @@ class App extends Component {
         <Home />
         <Portfolio />
         <About />
-        <Contact />
+        {/* <Contact /> */}
         <Footer />
       </>
     );
