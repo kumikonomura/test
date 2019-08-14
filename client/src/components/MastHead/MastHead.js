@@ -2,6 +2,7 @@ import React from "react";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Container from "react-bootstrap/Container";
 import Dog from "../../images/what_colors_are_shiba_inu_dogs_187_600.jpg";
+import GitHub from "../../images/GitHub-Mark-64px.png";
 import "./MastHead.css";
 
 const MastHead = _ => {
@@ -17,16 +18,11 @@ const MastHead = _ => {
             KUMIKO NOMURA
           </h1>
 
-          <div className="divider-custom divider-light">
-            <div className="divider-custom-line" />
-            <div className="divider-custom-icon">
-              <i className="fas fa-star" />
-            </div>
-            <div className="divider-custom-line" />
-          </div>
-
           <p className="masthead-subheading font-weight-light mb-0">
             Full-Stack Developer
+          </p>
+          <p>
+            <img src={GitHub} />
           </p>
         </div>
       </header>
