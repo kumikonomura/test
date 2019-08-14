@@ -23,14 +23,14 @@ const MastHead = _ => {
           </p>
           <br />
           <div class="social-icons">
-            <a href="https://www.linkedin.com/in/kumikonomura">
+            <a target="_blank" href="https://www.linkedin.com/in/kumikonomura">
               <i class="fab fa-linkedin-in" />
             </a>
-            <a href="https://github.com/kumikonomura">
+            <a target="_blank" href="https://github.com/kumikonomura">
               <i class="fab fa-github" />
             </a>
-            <a href="#">
-              <i class="fab fa-twitter" />
+            <a href="mailto:knomurap@gmail.com">
+              <i class="fab fa-gmail" />
             </a>
             <a href="#">
               <i class="fab fa-facebook-f" />
