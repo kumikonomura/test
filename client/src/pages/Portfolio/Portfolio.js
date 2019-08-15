@@ -6,9 +6,9 @@ import Posme from "../../images/posme.png";
 const Portfolio = _ => {
   return (
     <>
-      <section id="portfolio">
+      <section id="portfolio" className='bg-primary'>
         <div className="container">
-          <h2 className="page-section-heading text-center text-uppercase text-secondary mb-0">
+          <h2 className="page-section-heading text-center text-uppercase text-white mb-0">
             Portfolio
           </h2>
           <hr />
