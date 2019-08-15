@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import "./Portfolio.css";
-import Dog from "../../images/what_colors_are_shiba_inu_dogs_187_600.jpg";
+import Posme from '../../images/posme.png'
 
 const Portfolio = _ => {
   return (
@@ -13,7 +13,7 @@ const Portfolio = _ => {
           </h2>
           <hr />
           <Card className="portfolioApps" style={{ width: "18rem" }}>
-            <Card.Img variant="top" src={Dog} />
+            <Card.Img variant="top" src={Posme} />
             <Card.Body>
               <Card.Title>POSME</Card.Title>
               <Card.Subtitle className="mb-2 text-muted">
