@@ -25,7 +25,11 @@
   margin-right: 0;
 }
 
-.social-icons a:hover {
+.social-icons i:hover {
   /* background-color: #BD5D38; */
-  background-color: white;
+  background-color: grey;
+}
+
+.social-icons {
+  padding-bottom: 10px;
 }

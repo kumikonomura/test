@@ -2,7 +2,7 @@ import React from "react";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Container from "react-bootstrap/Container";
 import Dog from "../../images/what_colors_are_shiba_inu_dogs_187_600.jpg";
-import GitHub from "../../images/GitHub-Mark-64px.png";
+import GitHub from "../../images/GitHub-Mark-32px.png";
 import "./MastHead.css";
 
 const MastHead = _ => {
@@ -24,13 +24,13 @@ const MastHead = _ => {
           <br />
           <div class="social-icons">
             <a target="_blank" href="https://www.linkedin.com/in/kumikonomura">
-              <i class="fab fa-linkedin-in" />
+              <i class="fa fa-linkedin" />
             </a>
             <a target="_blank" href="https://github.com/kumikonomura">
-              <i class="fab fa-github" />
+              <i class="fa fa-github" />
             </a>
             <a href="mailto:knomurap@gmail.com">
-              <i class="fab fa-gmail" />
+              <i className="fa fa-envelope" />
             </a>
             {/* <a href="#">
               <i class="fab fa-facebook-f" />
