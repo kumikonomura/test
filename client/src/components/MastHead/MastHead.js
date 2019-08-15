@@ -32,9 +32,9 @@ const MastHead = _ => {
             <a href="mailto:knomurap@gmail.com">
               <i className="fa fa-envelope" />
             </a>
-            {/* <a href="#">
-              <i class="fab fa-facebook-f" />
-            </a> */}
+            <a href="resume">
+              <i className="fa fa-file" />
+            </a>
           </div>
         </div>
       </header>

@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import "./Portfolio.css";
-import Posme from '../../images/posme.png'
+import Posme from "../../images/posme.png";
 
 const Portfolio = _ => {
   return (

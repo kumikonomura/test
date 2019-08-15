@@ -4,9 +4,9 @@ import "./About.css";
 const About = _ => {
   return (
     <>
-      <section class="page-section bg-primary text-white mb-0" id="about">
+      <section class="page-section bg-white text-secondary mb-0" id="about">
         <div class="container">
-          <h2 class="page-section-heading text-center text-uppercase text-white">
+          <h2 class="page-section-heading text-center text-uppercase text-secondary">
             About
           </h2>
 
