@@ -1,10 +1,11 @@
 import React from "react";
+import "./Footer.css";
 
 const Footer = _ => {
   return (
     <>
-      <section class="copyright py-4 text-center text-black">
-        <div class="container">
+      <section className="copyright bg-dark py-4 text-center text-white">
+        <div className="container">
           <small className="name">Copyright &copy; 2019 Kumiko Nomura</small>
         </div>
       </section>
