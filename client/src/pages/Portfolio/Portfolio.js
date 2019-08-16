@@ -11,7 +11,7 @@ const Portfolio = _ => {
           <h2 className="page-section-heading text-center text-uppercase text-white mb-0">
             Portfolio
           </h2>
-          <hr />
+        <div className='card_area'>          
           <Card className="portfolioApps" style={{ width: "18rem" }}>
             <Card.Img variant="top" src={Posme} />
             <Card.Body>
@@ -39,6 +39,7 @@ const Portfolio = _ => {
               </Card.Link>
             </Card.Body>
           </Card>
+          </div>
         </div>
       </section>
     </>

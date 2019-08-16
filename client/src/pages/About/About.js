@@ -7,24 +7,18 @@ const About = _ => {
       <section class="page-section bg-white text-secondary mb-0" id="about">
         <div class="container">
           <h2 class="page-section-heading text-center text-uppercase text-secondary">
-            About
+            About Me
           </h2>
 
-          <hr />
           <div class="row">
             <div class="col-lg-4 ml-auto">
               <p class="lead">
-                Freelancer is a free bootstrap theme created by Start Bootstrap.
-                The download includes the complete source files including HTML,
-                CSS, and JavaScript as well as optional SASS stylesheets for
-                easy customization.
+                Hi everyone! My name is Kumiko Nomura. I am a recent graduate from UC Irvine's Coding Bootcamp. Prior to the bootcamp, I worked as a financial accountant. After two years of working with financial statements and ledgers, I finally decided it was time to take a leap of faith and pursue what I've always been interested in, software development.
               </p>
             </div>
             <div class="col-lg-4 mr-auto">
               <p class="lead">
-                You can create your own custom avatar for the masthead, change
-                the icon in the dividers, and add your email address to the
-                contact form to make it fully functional!
+                I am a big believer in constant learning and growth. I enjoy challenging myself in order to obtain new skills and broaden my horizons. I look forward to working with a 
               </p>
             </div>
           </div>

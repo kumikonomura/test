@@ -8,14 +8,6 @@ const Footer = _ => {
           <small className="name">Copyright &copy; 2019 Kumiko Nomura</small>
         </div>
       </section>
-      <div class="scroll-to-top d-lg-none position-fixed ">
-        <a
-          class="js-scroll-trigger d-block text-center text-black rounded"
-          href="#page-top"
-        >
-          <i class="fa fa-chevron-up" />
-        </a>
-      </div>
     </>
   );
 };
