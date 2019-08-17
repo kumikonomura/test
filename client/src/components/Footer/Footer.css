@@ -1,12 +1,24 @@
-/* #copyright {
+#copyright {
     font-size: 20px;
-    margin-right: 375px
 }
 .icons {
     margin-left: 400px;
-} */
+}
 
 #copyright {
   font-size: 18px;
 }
+.footer {
+    padding-top: 25px;
+}
+#linkedin {
+    padding: 10px;
+}
+#github {
+    padding: 10px;
+}
+#gmail {
+    padding: 10px;
+}
+
 
