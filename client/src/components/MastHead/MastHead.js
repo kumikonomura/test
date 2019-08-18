@@ -4,10 +4,12 @@ import Container from "react-bootstrap/Container";
 import Dog from "../../images/what_colors_are_shiba_inu_dogs_187_600.jpg";
 import GitHub from "../../images/GitHub-Mark-32px.png";
 import "./MastHead.css";
+import MediaQuery from 'react-responsive'
 
 const MastHead = _ => {
   return (
     <>
+    <MediaQuery query='(max-width: 1455px)'>
       <header className="masthead bg-primary text-white text-center">
         <div className="container d-flex align-items-center flex-column">
           <div className="profileImage">
@@ -38,6 +40,7 @@ const MastHead = _ => {
           </div>
         </div>
       </header>
+      </MediaQuery>
     </>
   );
 };

@@ -5,6 +5,7 @@ import Portfolio from "./pages/Portfolio";
 import Education from "./pages/Education";
 import Footer from "./components/Footer";
 import Skills from "./pages/Skills";
+import MediaQuery from 'react-responsive'
 
 class App extends Component {
   render() {
@@ -12,7 +13,7 @@ class App extends Component {
       <>
         <Home />
         <About />
-        <Skills />
+        {/* <Skills /> */}
         <Portfolio />
         <Education />
         <Footer />
