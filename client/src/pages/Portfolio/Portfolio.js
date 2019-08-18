@@ -2,7 +2,7 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import "./Portfolio.css";
 import Posme from "../../images/posme.png";
-import Popup from 'reactjs-popup'
+import Popup from "reactjs-popup";
 
 const Portfolio = _ => {
   return (
@@ -19,11 +19,15 @@ const Portfolio = _ => {
               <Card className="posme" style={{ width: "18rem" }}>
                 <Card.Img id="image" variant="top" src={Posme} />
                 <Card.Body>
-                  <Card.Title id='title'>POSME</Card.Title>
-                  <Card.Subtitle id='subtitles' className="mb-2 text-muted">
+                  <Card.Title id="title">POSME</Card.Title>
+                  <Card.Subtitle id="subtitles" className="mb-2 text-muted">
                     React, React Hooks, MongoDB, Material UI, Passport, AWS S3
                   </Card.Subtitle>
                   <Card.Text>
+                    {/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                    ullamco laboris nisi ut aliquip ex ea commodo consequat. */}
                     POSME (Point of Sale Made Easy) is a point-of-sale system
                     for small businesses to use in their daily operations. It
                     makes transactions efficient and simple while also tracking

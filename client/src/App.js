@@ -4,6 +4,7 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Education from "./pages/Education";
 import Footer from "./components/Footer";
+import Skills from "./pages/Skills";
 
 class App extends Component {
   render() {
@@ -11,6 +12,7 @@ class App extends Component {
       <>
         <Home />
         <About />
+        <Skills />
         <Portfolio />
         <Education />
         <Footer />

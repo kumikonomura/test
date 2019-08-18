@@ -1,24 +1,23 @@
 #copyright {
-    font-size: 20px;
+  font-size: 20px;
+  padding-bottom: 10px;
 }
 .icons {
-    margin-left: 400px;
+  margin-left: 400px;
 }
 
 #copyright {
   font-size: 18px;
 }
 .footer {
-    padding-top: 25px;
+  padding-top: 25px;
 }
 #linkedin {
-    padding: 10px;
+  padding: 8px;
 }
 #github {
-    padding: 10px;
+  padding: 8px;
 }
 #gmail {
-    padding: 10px;
+  padding: 8px;
 }
-
-
