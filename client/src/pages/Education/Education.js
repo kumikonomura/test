@@ -5,11 +5,11 @@ const Education = _ => {
   return (
     <section id="education" class="section scrollspy">
       <div className="container">
-        <h2  className="page-section-heading text-center text-uppercase text-secondary mb-0">
+        <h2 className="page-section-heading text-center text-uppercase text-primary mb-0">
           Education
         </h2>
         {/* <hr /> */}
-        <div id='schools' className="container">
+        <div id="schools" className="container">
           <div className="row">
             <div className="col s12 m6">
               <div className="card">

@@ -39,9 +39,9 @@ import "./Skills.css";
 const Skills = _ => {
   return (
     <>
-      <section id="skills" className="bg-primary">
+      <section id="skills" className="bg-white">
         <div id="skills_title" className="container">
-          <h2 className="page-section-heading text-center text-uppercase text-white mb-0">
+          <h2 className="page-section-heading text-center text-uppercase text-primary mb-0">
             skills
           </h2>
         </div>
