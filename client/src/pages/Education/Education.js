@@ -9,7 +9,7 @@ const Education = _ => {
           Education
         </h2>
         {/* <hr /> */}
-        <div className="container">
+        <div id='schools' className="container">
           <div className="row">
             <div className="col s12 m6">
               <div className="card">
