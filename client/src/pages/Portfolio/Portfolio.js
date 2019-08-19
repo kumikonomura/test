@@ -9,9 +9,9 @@ const Portfolio = _ => {
   return (
     <>
     <MediaQuery query='(max-width: 1455px)'>
-      <section id="portfolio" className="bg-white">
+      <section id="portfolio" >
         <div className="container">
-          <h2 className="page-section-heading text-center text-uppercase text-secondary mb-0">
+          <h2 className="page-section-heading text-center text-uppercase text-primary mb-0">
             Portfolio
           </h2>
         </div>
