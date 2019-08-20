@@ -5,8 +5,8 @@ const Footer = _ => {
   return (
     <>
     <div className='footer'>
-    <section className='copyright bg-dark py-4 text-center text-white'>
-      <h3 id='copyright'>Copyright @ 2019 Kumiko Nomura</h3>
+    <section id='footer_color' className='copyright py-4 text-center text-white'>
+      <h3 id='copyright'>Copyright © 2019 Kumiko Nomura</h3>
       <div className="container">
         <div className="text-center center-block">
           <a id='linkedin' target="_blank" href="https://www.linkedin.com/in/kumikonomura">

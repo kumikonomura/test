@@ -29,11 +29,11 @@ const NavBar = _ => {
                 PORTFOLIO
               </Scrollchor>
             </Nav.Link>
-            <Nav.Link>
+            {/* <Nav.Link>
               <Scrollchor to="#education" className="text-white">
                 EDUCATION
               </Scrollchor>
-            </Nav.Link>
+            </Nav.Link> */}
             {/* <Nav.Link className="text-white" href="#about">
               ABOUT ME
             </Nav.Link>

@@ -5,7 +5,9 @@
 .icons {
   margin-left: 400px;
 }
-
+#footer_color {
+  background-color: #696969
+}
 #copyright {
   font-size: 18px;
 }
