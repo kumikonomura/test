@@ -6,7 +6,7 @@ const About = _ => {
     <>
       <section class="page-section text-secondary mb-0" id="about">
         <div class="container">
-          <h2 class="page-section-heading text-center text-uppercase text-primary">
+          <h2 id='about_me' class="page-section-heading text-center text-uppercase">
             About Me
           </h2>
 

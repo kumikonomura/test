@@ -10,21 +10,21 @@ const MastHead = _ => {
   return (
     <>
       <MediaQuery query="(max-width: 1455px)">
-        <header className="masthead bg-primary text-white text-center">
+        <header id="profile" className="masthead text-white text-center">
           <div className="container d-flex align-items-center flex-column">
             <div className="profileImage">
               <img className="avatar" src={Dog} />
             </div>
 
-            <h1 className="masthead-heading text-uppercase mb-0">
+            {/* <h1 className="masthead-heading text-uppercase mb-0">
               KUMIKO NOMURA
-            </h1>
+            </h1> */}
 
             <p className="masthead-subheading font-weight-light mb-0">
               Full-Stack Developer
             </p>
             <br />
-            <div class="social-icons">
+            <div className="social-icons">
               <a
                 target="_blank"
                 href="https://www.linkedin.com/in/kumikonomura"

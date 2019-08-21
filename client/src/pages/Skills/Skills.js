@@ -5,9 +5,9 @@ import "./Skills.css";
 const Skills = _ => {
   return (
     <>
-      <section id="skills" className="bg-white">
+      <section id="skills" >
         <div id="skills_title" className="container">
-          <h2 className="page-section-heading text-center text-uppercase text-primary mb-0">
+          <h2 id='dev_tools' className="page-section-heading text-center text-uppercase mb-0">
             dev tools
           </h2>
         </div>

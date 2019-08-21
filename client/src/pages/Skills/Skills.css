@@ -1,9 +1,13 @@
 #skills {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: #ededed;
 }
 #tools {
   padding-top: 20px;
+}
+#dev_tools {
+  color: #2c393f;
 }
 #javascript {
   font-size: 18px;

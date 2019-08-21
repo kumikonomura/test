@@ -7,7 +7,7 @@ import Scrollchor from "react-scrollchor";
 const NavBar = _ => {
   return (
     <>
-      <Navbar className="bg-dark" expand="lg">
+      <Navbar id='navigation' expand="lg">
         <Navbar.Brand className="text-white" href="#home">
           KUMIKO NOMURA
         </Navbar.Brand>
