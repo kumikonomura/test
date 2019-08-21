@@ -1,9 +1,82 @@
 #skills {
-  padding-top: 20px;
+  padding-top: 15px;
   padding-bottom: 20px;
   background-color: #ededed;
 }
-#tools {
+#dev_tools {
+  padding-bottom: 15px;
+}
+.card {
+  background-color: #2c393f;
+}
+.col {
+  margin-bottom: 10px;
+}
+#javascript {
+  color: white;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+#html {
+  color: white;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+#css {
+  color: white;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+#reactjs {
+  color: white;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+#nodejs {
+  color: white;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+#materialui {
+  color: white;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+#bootstrap {
+  color: white;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+#visualstudio {
+  color: white;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+/* #tools {
   padding-top: 20px;
 }
 .card {
@@ -11,6 +84,9 @@
 }
 #dev_tools {
   color: #2c393f;
+}
+#cards {
+  margin-bottom: 10px;
 }
 #javascript {
   font-size: 18px;
@@ -58,4 +134,4 @@
   font-size: 18px;
   text-align: center;
   color: white;
-}
+} */
