@@ -10,7 +10,7 @@ const Portfolio = _ => {
     <>
       <section id="portfolio">
         <div className="container">
-          <h2 className="page-section-heading text-center text-uppercase text-primary mb=0">
+          <h2 id='portfolio_section' className="page-section-heading text-center text-uppercase mb=0">
             Portfolio
           </h2>
         </div>
