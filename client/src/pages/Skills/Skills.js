@@ -6,7 +6,6 @@ import MediaQuery from "react-responsive";
 const Skills = _ => {
   return (
     <>
-      <MediaQuery query="(max-device-width: 1224px)">
         <section id="skills">
           <div id="skills_title" className="container">
             <h2
@@ -79,7 +78,6 @@ const Skills = _ => {
             </div>
           </div>
         </section>
-      </MediaQuery>
     </>
   );
 };

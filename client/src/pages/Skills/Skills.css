@@ -1,10 +1,10 @@
 #skills {
-  padding-top: 25px;
+  padding-top: 20px;
   padding-bottom: 40px;
   background-color: #ededed;
 }
 #dev_tools {
-  padding-bottom: 15px;
+  padding-bottom: 20px;
   color: #2c393f;
 }
 .card {
@@ -20,6 +20,7 @@
   padding-top: 5px;
   padding-right: 15px;
   padding-left: 15px;
+  font-size: 14px;
 }
 #html {
   color: white;
@@ -28,6 +29,7 @@
   padding-top: 5px;
   padding-right: 15px;
   padding-left: 15px;
+  font-size: 14px;
 }
 #css {
   color: white;
@@ -36,6 +38,7 @@
   padding-top: 5px;
   padding-right: 15px;
   padding-left: 15px;
+  font-size: 14px;
 }
 #reactjs {
   color: white;
@@ -44,6 +47,7 @@
   padding-top: 5px;
   padding-right: 15px;
   padding-left: 15px;
+  font-size: 14px;
 }
 #nodejs {
   color: white;
@@ -52,6 +56,7 @@
   padding-top: 5px;
   padding-right: 15px;
   padding-left: 15px;
+  font-size: 14px;
 }
 #materialui {
   color: white;
@@ -60,6 +65,7 @@
   padding-top: 5px;
   padding-right: 15px;
   padding-left: 15px;
+  font-size: 14px;
 }
 #bootstrap {
   color: white;
@@ -68,6 +74,7 @@
   padding-top: 5px;
   padding-right: 15px;
   padding-left: 15px;
+  font-size: 14px;
 }
 #visualstudio {
   color: white;
@@ -76,6 +83,7 @@
   padding-top: 5px;
   padding-right: 15px;
   padding-left: 15px;
+  font-size: 14px;
 }
 /* #tools {
   padding-top: 20px;

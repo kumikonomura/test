@@ -5,6 +5,7 @@ import Posme from "../../images/posme.png";
 import Popup from "reactjs-popup";
 import MediaQuery from "react-responsive";
 
+
 const Portfolio = _ => {
   return (
     <>
@@ -15,25 +16,26 @@ const Portfolio = _ => {
           </h2>
         </div>
         {/* PROJECT 1 */}
-        <div class="card-deck">
-          <div class="card bg-primary">
-            <div class="card-body text-center">
-              <p class="card-text">Some text inside the first card</p>
+        <div className="card-deck">
+          <div id='portfolio_cards' className="card">
+            <img className='card-img-top' src={Posme} />
+            <div  className="card-body text-center">
+              <p className="card-text">PROJECT 1</p>
             </div>
           </div>
-          <div class="card bg-primary">
-            <div class="card-body text-center">
-              <p class="card-text">Some text inside the second card</p>
+          <div id='portfolio_cards' className="card">
+            <div className="card-body text-center">
+              <p className="card-text">PROJECT 2</p>
             </div>
           </div>
-          <div class="card bg-primary">
-            <div class="card-body text-center">
-              <p class="card-text">Some text inside the third card</p>
+          <div id='portfolio_cards' className="card">
+            <div className="card-body text-center">
+              <p className="card-text">PROJECT 3</p>
             </div>
           </div>
-          <div class="card bg-primary">
-            <div class="card-body text-center">
-              <p class="card-text">Some text inside the fourth card</p>
+          <div id='portfolio_cards' className="card">
+            <div className="card-body text-center">
+              <p className="card-text">PROJECT 4</p>
             </div>
           </div>
         </div>
