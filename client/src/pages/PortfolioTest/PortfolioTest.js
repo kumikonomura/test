@@ -18,7 +18,7 @@ const Portfolio = _ => {
           </h2>
         </div>
       </section>
-      <div className="ui cards">
+      <div className="ui three stackable cards">
         <div id="portfolio_card" className="card">
           <div className="content">
             <img className="right floated mini ui image" src={Posme} />
@@ -74,8 +74,24 @@ const Portfolio = _ => {
           </div>
           <div className="extra content">
             <div className="ui two buttons">
-              <div className="ui basic black button">Github Repo</div>
-              <div className="ui basic black button">Deployed Link</div>
+              <div className="ui basic black button">
+                <Card.Link
+                  id="github_link"
+                  target="_blank"
+                  href="https://github.com/kumikonomura/clicky-game.git"
+                >
+                  Github Repo
+                </Card.Link>
+              </div>
+              <div className="ui basic black button">
+                <Card.Link
+                  id="deployed_link"
+                  target="_blank"
+                  href="https://stark-badlands-11638.herokuapp.com/"
+                >
+                  Deployed Site
+                </Card.Link>
+              </div>
             </div>
           </div>
         </div>
