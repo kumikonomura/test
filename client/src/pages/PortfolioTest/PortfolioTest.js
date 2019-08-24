@@ -18,8 +18,8 @@ const Portfolio = _ => {
           </h2>
         </div>
       </section>
-      <div className="ui three stackable cards">
-        <div id="portfolio_card" className="card">
+      <div id='portfolio_card' className="ui three stackable cards">
+        <div className="card">
           <div className="content">
             <img className="right floated mini ui image" src={Posme} />
             <div className="header">Posme</div>
