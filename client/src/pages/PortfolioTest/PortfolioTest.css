@@ -10,12 +10,24 @@
     background-color: #00c7c7;
 } */
 #github_link {
-  color: #00c7c7;
+  color: white;
 }
 #deployed_link {
-  color: #00c7c7;
+  color: white;
 }
+/* #portfolio_buttons {
+  background-color: #2c393f;
+} */
 #portfolio_card {
   padding-left: 15px;
   padding-right: 15px;
+}
+#posme_card {
+  background-color: #00c7c7;
+}
+#office_card {
+  background-color: #00c7c7;
+}
+#p3_card {
+  background-color: #00c7c7;
 }
