@@ -6,12 +6,15 @@ const About = _ => {
     <>
       <section class="page-section text-secondary mb-0" id="about">
         <div class="container">
-          <h2 id='about_me' class="page-section-heading text-center text-uppercase">
+          <h2
+            id="about_me"
+            class="page-section-heading text-center text-uppercase"
+          >
             About Me
           </h2>
 
           <div class="row">
-            <div class="col-lg-4 ml-auto">
+            <div id="first_paragraph" class="col-lg-4 ml-auto">
               <p class="lead">
                 Hi everyone! My name is Kumiko Nomura. I am a recent graduate
                 from UC Irvine's Coding Bootcamp. Prior to the bootcamp, I
@@ -21,7 +24,7 @@ const About = _ => {
                 interested in, software development.
               </p>
             </div>
-            <div class="col-lg-4 mr-auto">
+            <div id="second_paragraph" class="col-lg-4 mr-auto">
               <p class="lead">
                 I am a big believer in constant learning and growth. I enjoy
                 challenging myself in order to obtain new skills and broaden my
